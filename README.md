@@ -49,4 +49,4 @@ This is a simple and flexible Bash script to generate secure random passwords us
 
 ## License
 
-MIT License
+This script is provided as-is, without warranty. Use at your own risk.
